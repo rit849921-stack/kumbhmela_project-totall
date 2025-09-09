@@ -1,7 +1,5 @@
 streamlit
 pandas
 folium
-pillow
-imagehash
-openai
-sqlite3
+streamlit-folium
+Pillow
